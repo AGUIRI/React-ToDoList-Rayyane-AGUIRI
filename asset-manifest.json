@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-ToDoList-Rayyane-AGUIRI/static/css/main.714afd39.chunk.css",
+    "main.js": "/React-ToDoList-Rayyane-AGUIRI/static/js/main.6c5b8e27.chunk.js",
+    "main.js.map": "/React-ToDoList-Rayyane-AGUIRI/static/js/main.6c5b8e27.chunk.js.map",
+    "runtime-main.js": "/React-ToDoList-Rayyane-AGUIRI/static/js/runtime-main.111e2ab9.js",
+    "runtime-main.js.map": "/React-ToDoList-Rayyane-AGUIRI/static/js/runtime-main.111e2ab9.js.map",
+    "static/js/2.c77b0b9b.chunk.js": "/React-ToDoList-Rayyane-AGUIRI/static/js/2.c77b0b9b.chunk.js",
+    "static/js/2.c77b0b9b.chunk.js.map": "/React-ToDoList-Rayyane-AGUIRI/static/js/2.c77b0b9b.chunk.js.map",
+    "index.html": "/React-ToDoList-Rayyane-AGUIRI/index.html",
+    "precache-manifest.6fdc9025c7681ab0bce4ef96ac5d2ac4.js": "/React-ToDoList-Rayyane-AGUIRI/precache-manifest.6fdc9025c7681ab0bce4ef96ac5d2ac4.js",
+    "service-worker.js": "/React-ToDoList-Rayyane-AGUIRI/service-worker.js",
+    "static/css/main.714afd39.chunk.css.map": "/React-ToDoList-Rayyane-AGUIRI/static/css/main.714afd39.chunk.css.map",
+    "static/js/2.c77b0b9b.chunk.js.LICENSE.txt": "/React-ToDoList-Rayyane-AGUIRI/static/js/2.c77b0b9b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/React-ToDoList-Rayyane-AGUIRI/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.111e2ab9.js",
+    "static/js/2.c77b0b9b.chunk.js",
+    "static/css/main.714afd39.chunk.css",
+    "static/js/main.6c5b8e27.chunk.js"
+  ]
+}
